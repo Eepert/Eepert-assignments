@@ -1,1 +1,1 @@
-Evert Alanen's assignments for Python Programming course
+Evert's assignments for Python Programming course
